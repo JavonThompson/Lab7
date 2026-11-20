@@ -1,6 +1,6 @@
 import java.util.*;
 
-/**
+/** 
  * COSC 214 Lab 7: Priority Queues and Binary Heaps
  */
 public class Lab7 {
