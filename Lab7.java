@@ -163,10 +163,7 @@ public class Lab7 {
         System.out.println("[2, 7, 4, 1, 8, 1] -> " + lastStoneWeight(new int[]{2, 7, 4, 1, 8, 1}));
         System.out.println("[1] -> " + lastStoneWeight(new int[]{1}));
 
-        System.out.println("\n=== Optional Challenge: Kth Smallest in a Stream (k = 3, nums = [4, 5, 8, 2]) ===");
-        KthSmallest ks = new KthSmallest(3, new int[]{4, 5, 8, 2});
-        for (int v : adds) {
-            System.out.println("add(" + v + ") -> " + ks.add(v));
+
         }
     }
 }
